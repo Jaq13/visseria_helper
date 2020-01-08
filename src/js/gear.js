@@ -212,4 +212,4 @@ Gear.$GEAR_SELECT = (function () {
   }
 
   return Select.makeGroupedSelect(options, 'js-gear-select');
-})();
+})(); 
